@@ -79,7 +79,7 @@ body {
   justify-content: center;
   align-items: center;
   color: white;
-  background: url(img/showcase2.jpg) center center/cover;
+  background: url(img/showcase2\ -\ webp.webp) center center/cover;
   background-color: rgba(0, 0, 0, 0.4);
   background-blend-mode: color;
 }
